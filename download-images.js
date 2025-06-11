@@ -18,6 +18,22 @@ const images = [
   {
     url: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae',
     filename: 'garden.jpg'
+  },
+  {
+    url: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb',
+    filename: 'testimonial1.jpg'
+  },
+  {
+    url: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
+    filename: 'testimonial2.jpg'
+  },
+  {
+    url: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
+    filename: 'testimonial3.jpg'
+  },
+  {
+    url: 'https://images.unsplash.com/photo-1525310072745-f49212b5ac6d',
+    filename: 'peony.jpg'
   }
 ];
 
